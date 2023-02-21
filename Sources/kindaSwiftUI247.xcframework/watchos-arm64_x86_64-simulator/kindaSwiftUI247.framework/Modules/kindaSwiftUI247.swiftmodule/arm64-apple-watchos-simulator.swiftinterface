@@ -14,6 +14,9 @@ public struct PoweredByKindaSwiftUIView : SwiftUI.View {
   }
   public typealias Body = @_opaqueReturnTypeOf("$s15kindaSwiftUI247014PoweredByKindaB6UIViewV4bodyQrvp", 0) __
 }
+public struct LicenseKeyStatus {
+  public static func isLicenseActive() -> Swift.Bool
+}
 @_Concurrency.MainActor(unsafe) public struct KindaSwiftUIContentView<Content> : SwiftUI.View where Content : SwiftUI.View {
   @_Concurrency.MainActor(unsafe) public init(@SwiftUI.ViewBuilder content: @escaping () -> Content)
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
