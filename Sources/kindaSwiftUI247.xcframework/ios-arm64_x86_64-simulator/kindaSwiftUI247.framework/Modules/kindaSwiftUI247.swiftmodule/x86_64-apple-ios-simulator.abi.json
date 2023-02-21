@@ -1,0 +1,174 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 209,
+      "length": 7,
+      "value": "\"trial\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 269,
+      "length": 33,
+      "value": "\"f8gl4OMThSeRiHSP_LpcpQKzSWiYr6p\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 346,
+      "length": 33,
+      "value": "\"HxBoyX9TgVwv8LnU_LkUWfsgrBo8dM5\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 423,
+      "length": 33,
+      "value": "\"1X7rlR0rCDTWX2f7_N7CtW41UqIvA9l\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 500,
+      "length": 33,
+      "value": "\"z78eGwQU11MvHyZo_LmkB9SCRXKRR3W\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 577,
+      "length": 33,
+      "value": "\"l5TXarcxkVfTPwHi_NJV9jaoAdhZUto\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 654,
+      "length": 33,
+      "value": "\"mJarKfuJSgcvO9bT_Lmkpdi4naoTvk0\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 731,
+      "length": 33,
+      "value": "\"JVRuQez5V7gJNJOr_NL1sBokhVZXE0E\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 808,
+      "length": 33,
+      "value": "\"V3Wp2jpzMBOvMqDV_LrKogJIFBEjZDd\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 885,
+      "length": 33,
+      "value": "\"HAfzQwJXjNaCzDZd_NKd9UM2zqKI9LO\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 962,
+      "length": 33,
+      "value": "\"gw1KF9b12Pk0ykYQ_NM84LNBUId6uwX\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1039,
+      "length": 33,
+      "value": "\"X911cT9cCuWuMlnF_NN4icqWlAj0yiR\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1116,
+      "length": 33,
+      "value": "\"7rc1P6vLvPmolsFR_NOON5qiEDM5I9n\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 1000,
+      "length": 343,
+      "value": "\"􀫊 kindaSwiftUI: License key is undefined or invalid. Please (1) set up a `KindaSwiftUI-Info.plist` file with a `key` for your license key (use `trial` or you may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. https:\/\/store.rebeloper.com\/community ); (2) Wrap your app content into the 'KindaSwiftUIContentView'\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 1388,
+      "length": 276,
+      "value": "\"􀫊 kindaSwiftUI: The trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI gets lazy and sleeps from time to time. You may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. https:\/\/store.rebeloper.com\/community\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
+      "kind": "StringLiteral",
+      "offset": 1722,
+      "length": 310,
+      "value": "\"􀫊 kindaSwiftUI: You have an inactive license key. The trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI gets lazy and sleeps from time to time. You may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. https:\/\/store.rebeloper.com\/community\""
+    }
+  ]
+}
