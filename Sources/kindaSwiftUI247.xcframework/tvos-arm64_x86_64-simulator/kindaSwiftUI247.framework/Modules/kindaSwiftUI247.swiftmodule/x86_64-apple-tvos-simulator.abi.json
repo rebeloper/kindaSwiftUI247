@@ -6,8 +6,118 @@
     "children": [
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PoweredByKindaSwiftUIView",
+        "printedName": "PoweredByKindaSwiftUIView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "body",
+            "printedName": "body",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15kindaSwiftUI247014PoweredByKindaB6UIViewV4bodyQrvp",
+            "mangledName": "$s15kindaSwiftUI247014PoweredByKindaB6UIViewV4bodyQrvp",
+            "moduleName": "kindaSwiftUI247",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI247014PoweredByKindaB6UIViewV4bodyQrvg",
+                "mangledName": "$s15kindaSwiftUI247014PoweredByKindaB6UIViewV4bodyQrvg",
+                "moduleName": "kindaSwiftUI247",
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15kindaSwiftUI247014PoweredByKindaB6UIViewV",
+        "mangledName": "$s15kindaSwiftUI247014PoweredByKindaB6UIViewV",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "View",
+            "printedName": "View",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI4ViewP",
+            "mangledName": "$s7SwiftUI4ViewP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
         "declKind": "Import",
         "moduleName": "kindaSwiftUI247",
         "declAttributes": [
@@ -52,6 +162,179 @@
         "moduleName": "kindaSwiftUI247",
         "declAttributes": [
           "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "KindaSwiftUIContentView",
+        "printedName": "KindaSwiftUIContentView",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(content:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KindaSwiftUIContentView",
+                "printedName": "kindaSwiftUI247.KindaSwiftUIContentView<τ_0_0>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> τ_0_0",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV7contentACyxGxyc_tcfc",
+            "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV7contentACyxGxyc_tcfc",
+            "moduleName": "kindaSwiftUI247",
+            "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+            "sugared_genericSig": "<Content where Content : SwiftUI.View>",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "body",
+            "printedName": "body",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvp",
+            "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvp",
+            "moduleName": "kindaSwiftUI247",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvg",
+                "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvg",
+                "moduleName": "kindaSwiftUI247",
+                "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+                "sugared_genericSig": "<Content where Content : SwiftUI.View>",
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV",
+        "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV",
+        "moduleName": "kindaSwiftUI247",
+        "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+        "sugared_genericSig": "<Content where Content : SwiftUI.View>",
+        "declAttributes": [
+          "Custom",
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "View",
+            "printedName": "View",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI4ViewP",
+            "mangledName": "$s7SwiftUI4ViewP"
+          }
         ]
       }
     ],
@@ -169,6 +452,13 @@
       "offset": 1722,
       "length": 310,
       "value": "\"􀫊 kindaSwiftUI: You have an inactive license key. The trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI gets lazy and sleeps from time to time. You may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. https:\/\/store.rebeloper.com\/community\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/KindaSwiftUIContentView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 387,
+      "length": 5,
+      "value": "false"
     }
   ]
 }

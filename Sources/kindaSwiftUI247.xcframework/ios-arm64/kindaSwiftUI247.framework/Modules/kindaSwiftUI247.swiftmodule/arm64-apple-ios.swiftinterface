@@ -4,6 +4,20 @@
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
 import Swift
+import SwiftUI
 import _Concurrency
 import _StringProcessing
 @_exported import kindaSwiftUI247
+public struct PoweredByKindaSwiftUIView : SwiftUI.View {
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s15kindaSwiftUI247014PoweredByKindaB6UIViewV4bodyQrvp", 0) __
+}
+@_Concurrency.MainActor(unsafe) public struct KindaSwiftUIContentView<Content> : SwiftUI.View where Content : SwiftUI.View {
+  @_Concurrency.MainActor(unsafe) public init(@SwiftUI.ViewBuilder content: @escaping () -> Content)
+  @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
+    get
+  }
+  public typealias Body = @_opaqueReturnTypeOf("$s15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvp", 0) __<Content>
+}
