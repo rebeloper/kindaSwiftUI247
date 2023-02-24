@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		S/sjd2BZHMoZ7JZbSh1lee/5+q0=
+		EllBgH4PaAdeuKhC0YIuKRuZHW0=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		0Y4urMuy2BSxIcO5whRYwFfm9w8=
+		Rwh9MKvq1AehKsb04LQ7dBbh5oY=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		S/sjd2BZHMoZ7JZbSh1lee/5+q0=
+		EllBgH4PaAdeuKhC0YIuKRuZHW0=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		Dxz4MZtd0o6Y83/GceWPwnF6PUE=
+		Icrb+Xj/BANQS02vLeZQ6WP52S4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r6Du/hmSBTBaD6UC9HuOiRcDRgxr13aiF+K6X9KZuNI=
+			XtTq7Iyq3IhKE0LM4O+4681ovptJTjXFOVyaIiBYqEg=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+i/V+ze+i10s2VJBo+qOVrZKfPs/QtM9s8G0lx8pDgE=
+			hsu0R9O6zkGtnwA4B0xtnKXH9St0I+f50DlH8WNfq30=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r6Du/hmSBTBaD6UC9HuOiRcDRgxr13aiF+K6X9KZuNI=
+			XtTq7Iyq3IhKE0LM4O+4681ovptJTjXFOVyaIiBYqEg=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wNcE66CXZ8gjOSo8IZb9UpEczk82wZ58F+gmmZbv+lY=
+			ZUTHOkqXoMHdmM/lQXR8H0j6Sv65P0bXotqQLAXcEE4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
