@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		Ted5oa+BQxiQ08mCQwhNlwdfvyU=
+		PwAVitHJQaGTXG60IGAzfl39Tg4=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		cwDo7aqtNxpSBorBDqDWiGrwYAc=
+		+jUm7J/8H0O9Ku82DfZQy97NonU=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		Ted5oa+BQxiQ08mCQwhNlwdfvyU=
+		PwAVitHJQaGTXG60IGAzfl39Tg4=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		caKJPJJgmDpFtF+ANJ2hZaJEa/0=
+		KdDCaRDLhORRYGqs+XZYAPxrmC0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KlRJDkzk/3hhtFTG5qjbpefyFB9jUlZ8wSMV60nPdN8=
+			SzZ90k0qCibPijnwKzGzQ0KBT8HnrPohlqfrxrnQakQ=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TOYmmtkmmQcMCMA/lpOLVN3TRYsBEQKKtz3llgDqaEs=
+			AtwO55B6Iz+Nli3i5IwHylK/5su5pw/dagjSXViNPXc=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KlRJDkzk/3hhtFTG5qjbpefyFB9jUlZ8wSMV60nPdN8=
+			SzZ90k0qCibPijnwKzGzQ0KBT8HnrPohlqfrxrnQakQ=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dufj8xq/S9MAdfQWZxRdqOJkuBvreuWtmmt1ppZ/X6k=
+			QrszU6ILeJkB5Y8mpSXdN97aA1C0iMg9oCGPxMEnU+Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
