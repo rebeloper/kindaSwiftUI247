@@ -17,10 +17,34 @@ public struct PoweredByKindaSwiftUIView : SwiftUI.View {
 public struct LicenseKeyStatus {
   public static func isLicenseActive() -> Swift.Bool
 }
+public enum KindaSwiftUILogLevel {
+  case none, debug
+  public static func == (a: kindaSwiftUI247.KindaSwiftUILogLevel, b: kindaSwiftUI247.KindaSwiftUILogLevel) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class KindaSwiftUILogManager : Foundation.ObservableObject {
+  @Combine.Published @_projectedValueProperty($logLevel) public var logLevel: kindaSwiftUI247.KindaSwiftUILogLevel {
+    get
+    set
+    _modify
+  }
+  public var $logLevel: Combine.Published<kindaSwiftUI247.KindaSwiftUILogLevel>.Publisher {
+    get
+    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
+    set
+  }
+  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
+  @objc deinit
+}
 @_Concurrency.MainActor(unsafe) public struct KindaSwiftUIContentView<Content> : SwiftUI.View where Content : SwiftUI.View {
-  @_Concurrency.MainActor(unsafe) public init(@SwiftUI.ViewBuilder content: @escaping () -> Content)
+  @_Concurrency.MainActor(unsafe) public init(logLevel: kindaSwiftUI247.KindaSwiftUILogLevel = .debug, @SwiftUI.ViewBuilder content: @escaping () -> Content)
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }
   public typealias Body = @_opaqueReturnTypeOf("$s15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvp", 0) __<Content>
 }
+extension kindaSwiftUI247.KindaSwiftUILogLevel : Swift.Equatable {}
+extension kindaSwiftUI247.KindaSwiftUILogLevel : Swift.Hashable {}

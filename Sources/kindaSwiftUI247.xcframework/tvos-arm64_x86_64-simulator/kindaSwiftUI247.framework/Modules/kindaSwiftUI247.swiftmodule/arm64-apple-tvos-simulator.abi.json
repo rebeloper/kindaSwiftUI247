@@ -222,13 +222,448 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "KindaSwiftUILogLevel",
+        "printedName": "KindaSwiftUILogLevel",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "none",
+            "printedName": "none",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(kindaSwiftUI247.KindaSwiftUILogLevel.Type) -> kindaSwiftUI247.KindaSwiftUILogLevel",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KindaSwiftUILogLevel",
+                    "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                    "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KindaSwiftUILogLevel",
+                        "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                        "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO4noneyA2CmF",
+            "mangledName": "$s15kindaSwiftUI24705KindaB10UILogLevelO4noneyA2CmF",
+            "moduleName": "kindaSwiftUI247"
+          },
+          {
+            "kind": "Var",
+            "name": "debug",
+            "printedName": "debug",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(kindaSwiftUI247.KindaSwiftUILogLevel.Type) -> kindaSwiftUI247.KindaSwiftUILogLevel",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KindaSwiftUILogLevel",
+                    "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                    "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KindaSwiftUILogLevel",
+                        "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                        "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO5debugyA2CmF",
+            "mangledName": "$s15kindaSwiftUI24705KindaB10UILogLevelO5debugyA2CmF",
+            "moduleName": "kindaSwiftUI247"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "KindaSwiftUILogLevel",
+                "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "KindaSwiftUILogLevel",
+                "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s15kindaSwiftUI24705KindaB10UILogLevelO2eeoiySbAC_ACtFZ",
+            "moduleName": "kindaSwiftUI247",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO9hashValueSivp",
+            "mangledName": "$s15kindaSwiftUI24705KindaB10UILogLevelO9hashValueSivp",
+            "moduleName": "kindaSwiftUI247",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO9hashValueSivg",
+                "mangledName": "$s15kindaSwiftUI24705KindaB10UILogLevelO9hashValueSivg",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s15kindaSwiftUI24705KindaB10UILogLevelO4hash4intoys6HasherVz_tF",
+            "moduleName": "kindaSwiftUI247",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO",
+        "mangledName": "$s15kindaSwiftUI24705KindaB10UILogLevelO",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "KindaSwiftUILogManager",
+        "printedName": "KindaSwiftUILogManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "logLevel",
+            "printedName": "logLevel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KindaSwiftUILogLevel",
+                "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15kindaSwiftUI24705KindaB12UILogManagerC8logLevelAA0dbeH0Ovp",
+            "mangledName": "$s15kindaSwiftUI24705KindaB12UILogManagerC8logLevelAA0dbeH0Ovp",
+            "moduleName": "kindaSwiftUI247",
+            "declAttributes": [
+              "ProjectedValueProperty",
+              "AccessControl",
+              "Custom"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KindaSwiftUILogLevel",
+                    "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                    "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24705KindaB12UILogManagerC8logLevelAA0dbeH0Ovg",
+                "mangledName": "$s15kindaSwiftUI24705KindaB12UILogManagerC8logLevelAA0dbeH0Ovg",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KindaSwiftUILogLevel",
+                    "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                    "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24705KindaB12UILogManagerC8logLevelAA0dbeH0Ovs",
+                "mangledName": "$s15kindaSwiftUI24705KindaB12UILogManagerC8logLevelAA0dbeH0Ovs",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24705KindaB12UILogManagerC8logLevelAA0dbeH0OvM",
+                "mangledName": "$s15kindaSwiftUI24705KindaB12UILogManagerC8logLevelAA0dbeH0OvM",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "$logLevel",
+            "printedName": "$logLevel",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Publisher",
+                "printedName": "Combine.Published<kindaSwiftUI247.KindaSwiftUILogLevel>.Publisher",
+                "usr": "s:7Combine9PublishedV9PublisherV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15kindaSwiftUI24705KindaB12UILogManagerC9$logLevel7Combine9PublishedV9PublisherVyAA0dbeH0O_Gvp",
+            "mangledName": "$s15kindaSwiftUI24705KindaB12UILogManagerC9$logLevel7Combine9PublishedV9PublisherVyAA0dbeH0O_Gvp",
+            "moduleName": "kindaSwiftUI247",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Publisher",
+                    "printedName": "Combine.Published<kindaSwiftUI247.KindaSwiftUILogLevel>.Publisher",
+                    "usr": "s:7Combine9PublishedV9PublisherV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24705KindaB12UILogManagerC9$logLevel7Combine9PublishedV9PublisherVyAA0dbeH0O_Gvg",
+                "mangledName": "$s15kindaSwiftUI24705KindaB12UILogManagerC9$logLevel7Combine9PublishedV9PublisherVyAA0dbeH0O_Gvg",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Publisher",
+                    "printedName": "Combine.Published<kindaSwiftUI247.KindaSwiftUILogLevel>.Publisher",
+                    "usr": "s:7Combine9PublishedV9PublisherV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24705KindaB12UILogManagerC9$logLevel7Combine9PublishedV9PublisherVyAA0dbeH0O_Gvs",
+                "mangledName": "$s15kindaSwiftUI24705KindaB12UILogManagerC9$logLevel7Combine9PublishedV9PublisherVyAA0dbeH0O_Gvs",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24705KindaB12UILogManagerC9$logLevel7Combine9PublishedV9PublisherVyAA0dbeH0O_GvM",
+                "mangledName": "$s15kindaSwiftUI24705KindaB12UILogManagerC9$logLevel7Combine9PublishedV9PublisherVyAA0dbeH0O_GvM",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "intro_Macosx": "11.0",
+                "intro_iOS": "14.0",
+                "intro_tvOS": "14.0",
+                "intro_watchOS": "7.0",
+                "declAttributes": [
+                  "Available",
+                  "Available",
+                  "Available",
+                  "Available"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:15kindaSwiftUI24705KindaB12UILogManagerC",
+        "mangledName": "$s15kindaSwiftUI24705KindaB12UILogManagerC",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "ObservableObject",
+            "printedName": "ObservableObject",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ObjectWillChangePublisher",
+                "printedName": "ObjectWillChangePublisher",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObservableObjectPublisher",
+                    "printedName": "Combine.ObservableObjectPublisher",
+                    "usr": "s:7Combine25ObservableObjectPublisherC"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7Combine16ObservableObjectP",
+            "mangledName": "$s7Combine16ObservableObjectP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "KindaSwiftUIContentView",
         "printedName": "KindaSwiftUIContentView",
         "children": [
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(content:)",
+            "printedName": "init(logLevel:content:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -242,6 +677,13 @@
                   }
                 ],
                 "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "KindaSwiftUILogLevel",
+                "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                "hasDefaultArg": true,
+                "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
               },
               {
                 "kind": "TypeFunc",
@@ -262,8 +704,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV7contentACyxGxyc_tcfc",
-            "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV7contentACyxGxyc_tcfc",
+            "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV8logLevel7contentACyxGAA0db5UILogH0O_xyctcfc",
+            "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV8logLevel7contentACyxGAA0db5UILogH0O_xyctcfc",
             "moduleName": "kindaSwiftUI247",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Content where Content : SwiftUI.View>",
@@ -506,7 +948,7 @@
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/KindaSwiftUIContentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 387,
+      "offset": 451,
       "length": 5,
       "value": "false"
     }
