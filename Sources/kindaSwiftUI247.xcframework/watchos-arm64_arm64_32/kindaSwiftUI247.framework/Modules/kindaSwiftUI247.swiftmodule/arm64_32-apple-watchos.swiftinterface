@@ -29,7 +29,8 @@ public struct KindaSwiftUILogManager {
   public static var logLevel: kindaSwiftUI247.KindaSwiftUILogLevel
 }
 @_Concurrency.MainActor(unsafe) public struct KindaSwiftUIContentView<Content> : SwiftUI.View where Content : SwiftUI.View {
-  @_Concurrency.MainActor(unsafe) public init(logLevel: kindaSwiftUI247.KindaSwiftUILogLevel = .none, @SwiftUI.ViewBuilder content: @escaping () -> Content)
+  @_Concurrency.MainActor(unsafe) public init(logLevel: kindaSwiftUI247.KindaSwiftUILogLevel, @SwiftUI.ViewBuilder content: @escaping () -> Content)
+  @_Concurrency.MainActor(unsafe) public init(@SwiftUI.ViewBuilder content: @escaping () -> Content)
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }

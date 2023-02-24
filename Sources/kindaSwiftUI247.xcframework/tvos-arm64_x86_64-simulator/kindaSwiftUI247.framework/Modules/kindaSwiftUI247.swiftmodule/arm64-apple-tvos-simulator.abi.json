@@ -561,7 +561,6 @@
                 "kind": "TypeNominal",
                 "name": "KindaSwiftUILogLevel",
                 "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
-                "hasDefaultArg": true,
                 "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
               },
               {
@@ -585,6 +584,54 @@
             "declKind": "Constructor",
             "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV8logLevel7contentACyxGAA0db5UILogH0O_xyctcfc",
             "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV8logLevel7contentACyxGAA0db5UILogH0O_xyctcfc",
+            "moduleName": "kindaSwiftUI247",
+            "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+            "sugared_genericSig": "<Content where Content : SwiftUI.View>",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(content:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "KindaSwiftUIContentView",
+                "printedName": "kindaSwiftUI247.KindaSwiftUIContentView<τ_0_0>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ],
+                "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> τ_0_0",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV7contentACyxGxyc_tcfc",
+            "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV7contentACyxGxyc_tcfc",
             "moduleName": "kindaSwiftUI247",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Content where Content : SwiftUI.View>",
