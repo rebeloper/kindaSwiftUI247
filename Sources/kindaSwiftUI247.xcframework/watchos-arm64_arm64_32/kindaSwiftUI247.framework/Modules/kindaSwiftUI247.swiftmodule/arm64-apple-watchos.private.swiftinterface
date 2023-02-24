@@ -18,7 +18,7 @@ public struct LicenseKeyStatus {
   public static func isLicenseActive() -> Swift.Bool
 }
 public enum KindaSwiftUILogLevel {
-  case none, debug
+  case none, debug, full
   public static func == (a: kindaSwiftUI247.KindaSwiftUILogLevel, b: kindaSwiftUI247.KindaSwiftUILogLevel) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
   public var hashValue: Swift.Int {

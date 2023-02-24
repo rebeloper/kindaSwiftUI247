@@ -300,6 +300,43 @@
             "moduleName": "kindaSwiftUI247"
           },
           {
+            "kind": "Var",
+            "name": "full",
+            "printedName": "full",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(kindaSwiftUI247.KindaSwiftUILogLevel.Type) -> kindaSwiftUI247.KindaSwiftUILogLevel",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KindaSwiftUILogLevel",
+                    "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                    "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KindaSwiftUILogLevel",
+                        "printedName": "kindaSwiftUI247.KindaSwiftUILogLevel",
+                        "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:15kindaSwiftUI24705KindaB10UILogLevelO4fullyA2CmF",
+            "mangledName": "$s15kindaSwiftUI24705KindaB10UILogLevelO4fullyA2CmF",
+            "moduleName": "kindaSwiftUI247"
+          },
+          {
             "kind": "Function",
             "name": "==",
             "printedName": "==(_:_:)",
