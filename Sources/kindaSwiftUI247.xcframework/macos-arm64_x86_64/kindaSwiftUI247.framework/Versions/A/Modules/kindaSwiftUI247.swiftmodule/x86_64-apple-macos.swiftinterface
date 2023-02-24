@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
-// swift-module-flags: -target arm64-apple-ios16.2-macabi -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name kindaSwiftUI247
+// swift-module-flags: -target x86_64-apple-macos13.1 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name kindaSwiftUI247
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
 import Swift
@@ -25,22 +25,11 @@ public enum KindaSwiftUILogLevel {
     get
   }
 }
-@_hasMissingDesignatedInitializers public class KindaSwiftUILogManager : Foundation.ObservableObject {
-  @Combine.Published @_projectedValueProperty($logLevel) public var logLevel: kindaSwiftUI247.KindaSwiftUILogLevel {
-    get
-    set
-    _modify
-  }
-  public var $logLevel: Combine.Published<kindaSwiftUI247.KindaSwiftUILogLevel>.Publisher {
-    get
-    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
-    set
-  }
-  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
-  @objc deinit
+public struct KindaSwiftUILogManager {
+  public static var logLevel: kindaSwiftUI247.KindaSwiftUILogLevel
 }
 @_Concurrency.MainActor(unsafe) public struct KindaSwiftUIContentView<Content> : SwiftUI.View where Content : SwiftUI.View {
-  @_Concurrency.MainActor(unsafe) public init(logLevel: kindaSwiftUI247.KindaSwiftUILogLevel = .debug, @SwiftUI.ViewBuilder content: @escaping () -> Content)
+  @_Concurrency.MainActor(unsafe) public init(logLevel: kindaSwiftUI247.KindaSwiftUILogLevel = .none, @SwiftUI.ViewBuilder content: @escaping () -> Content)
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }

@@ -25,22 +25,11 @@ public enum KindaSwiftUILogLevel {
     get
   }
 }
-@_hasMissingDesignatedInitializers public class KindaSwiftUILogManager : Foundation.ObservableObject {
-  @Combine.Published @_projectedValueProperty($logLevel) public var logLevel: kindaSwiftUI247.KindaSwiftUILogLevel {
-    get
-    set
-    _modify
-  }
-  public var $logLevel: Combine.Published<kindaSwiftUI247.KindaSwiftUILogLevel>.Publisher {
-    get
-    @available(iOS 14.0, tvOS 14.0, watchOS 7.0, macOS 11.0, *)
-    set
-  }
-  public typealias ObjectWillChangePublisher = Combine.ObservableObjectPublisher
-  @objc deinit
+public struct KindaSwiftUILogManager {
+  public static var logLevel: kindaSwiftUI247.KindaSwiftUILogLevel
 }
 @_Concurrency.MainActor(unsafe) public struct KindaSwiftUIContentView<Content> : SwiftUI.View where Content : SwiftUI.View {
-  @_Concurrency.MainActor(unsafe) public init(logLevel: kindaSwiftUI247.KindaSwiftUILogLevel = .debug, @SwiftUI.ViewBuilder content: @escaping () -> Content)
+  @_Concurrency.MainActor(unsafe) public init(logLevel: kindaSwiftUI247.KindaSwiftUILogLevel = .none, @SwiftUI.ViewBuilder content: @escaping () -> Content)
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }

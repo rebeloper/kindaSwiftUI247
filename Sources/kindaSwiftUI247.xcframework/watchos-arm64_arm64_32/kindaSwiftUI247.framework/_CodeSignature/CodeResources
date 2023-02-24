@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
-		OSCy680s+6ANzdsXdLWX0o/67M4=
+		5ThyDmbjtSbfcT8ki8V7OA6rEEI=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<data>
-		Ggd6VDSum9Uasls7pr/LuQCIBpk=
+		bXqDbIOAPFhzr4bKFUE/vEquprg=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.swiftinterface</key>
 		<data>
-		Ggd6VDSum9Uasls7pr/LuQCIBpk=
+		bXqDbIOAPFhzr4bKFUE/vEquprg=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.swiftmodule</key>
 		<data>
-		8ijXlHrCJYK3CS94pmvA9WfGETI=
+		MhcFDUQ4/CubvuDdG280Tw85Gh0=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
-		OSCy680s+6ANzdsXdLWX0o/67M4=
+		5ThyDmbjtSbfcT8ki8V7OA6rEEI=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<data>
-		883fwfG17nTU/5QWZ3TpkYOgstE=
+		RKkEosm+LNhL5q7cOW6h68S9NZE=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.swiftinterface</key>
 		<data>
-		883fwfG17nTU/5QWZ3TpkYOgstE=
+		RKkEosm+LNhL5q7cOW6h68S9NZE=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.swiftmodule</key>
 		<data>
-		ume7r6m5u3ZtZ6BxWKBDLG75MoE=
+		eoD+nd3lCMIt8iBVQ1b95DMdKJs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,22 +89,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OSCy680s+6ANzdsXdLWX0o/67M4=
+			5ThyDmbjtSbfcT8ki8V7OA6rEEI=
 			</data>
 			<key>hash2</key>
 			<data>
-			JEVxGsNT1feElBMwpVacqkyYRreoiXxnEsWdd/duJ1Q=
+			AcyCaLNZFz8sAF2oarWhASKYnQhdYNhxyIWUrgbYhrw=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ggd6VDSum9Uasls7pr/LuQCIBpk=
+			bXqDbIOAPFhzr4bKFUE/vEquprg=
 			</data>
 			<key>hash2</key>
 			<data>
-			PuqlrKSnatQgjDiJtqr1+JdRoOpFqFAPea5f4ccCvZ8=
+			oCGK3LyBbNGPT4tJaC7Rzs7GIMydZ/93rCMhF0fwydY=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.swiftdoc</key>
@@ -122,44 +122,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ggd6VDSum9Uasls7pr/LuQCIBpk=
+			bXqDbIOAPFhzr4bKFUE/vEquprg=
 			</data>
 			<key>hash2</key>
 			<data>
-			PuqlrKSnatQgjDiJtqr1+JdRoOpFqFAPea5f4ccCvZ8=
+			oCGK3LyBbNGPT4tJaC7Rzs7GIMydZ/93rCMhF0fwydY=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8ijXlHrCJYK3CS94pmvA9WfGETI=
+			MhcFDUQ4/CubvuDdG280Tw85Gh0=
 			</data>
 			<key>hash2</key>
 			<data>
-			pNX3F5o8qPeOVB1NUOpDsKNhdQS+Dz/8k7QAVgNDj50=
+			mYdJsH4YKrKr8vJ7FWwp3Z6V23NfsPQ8OM6Cp0Q5W4s=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OSCy680s+6ANzdsXdLWX0o/67M4=
+			5ThyDmbjtSbfcT8ki8V7OA6rEEI=
 			</data>
 			<key>hash2</key>
 			<data>
-			JEVxGsNT1feElBMwpVacqkyYRreoiXxnEsWdd/duJ1Q=
+			AcyCaLNZFz8sAF2oarWhASKYnQhdYNhxyIWUrgbYhrw=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			883fwfG17nTU/5QWZ3TpkYOgstE=
+			RKkEosm+LNhL5q7cOW6h68S9NZE=
 			</data>
 			<key>hash2</key>
 			<data>
-			9i1cegfVb8tOgW4Bg7C5Zdyr4XXBK901a12yUWGNVpw=
+			VUaruzNyht6q6r1DBusBSlVeHj4rA0eWMvl6Xm29u5Q=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
@@ -177,22 +177,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			883fwfG17nTU/5QWZ3TpkYOgstE=
+			RKkEosm+LNhL5q7cOW6h68S9NZE=
 			</data>
 			<key>hash2</key>
 			<data>
-			9i1cegfVb8tOgW4Bg7C5Zdyr4XXBK901a12yUWGNVpw=
+			VUaruzNyht6q6r1DBusBSlVeHj4rA0eWMvl6Xm29u5Q=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ume7r6m5u3ZtZ6BxWKBDLG75MoE=
+			eoD+nd3lCMIt8iBVQ1b95DMdKJs=
 			</data>
 			<key>hash2</key>
 			<data>
-			sxtAx4Im7AioAErKUf3pAHi6gSuzsayI6l4cV7mpKrU=
+			4qtrY38BPRY/rC4ppmU5iEgQkAPBgJSzsdRoVowMkYw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
