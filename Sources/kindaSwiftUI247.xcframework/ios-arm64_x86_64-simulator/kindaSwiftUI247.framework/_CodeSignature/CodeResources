@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zQFyeQjkejRs4KlH+k9m5U1zgYY=
+		rGAUKomg5VSATo4M3UoVaxDz4KE=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PApEjPdpf6HgpLL3tDE+IEvSaqg=
+		Qm9e7FLrbRevXpS4q5o9bHpUVJs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W8VxI9ugRTTaqut0PR4BqgKkKeR+JFwxH+E33dr5vKg=
+			rbw/uHz3ka0e3s0oN1hsaGtBodav2QgmW3V34q1GdgE=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ij1icpDScustUb249h6T2YCNl1XbqfRuu+ttV9bVXrY=
+			De/CdJyq1rhXkhGHs6dye879opIQvcYITYnQDxD8Shg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
