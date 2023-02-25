@@ -33,10 +33,14 @@ public enum KindaSwiftUILogLevel {
     get
   }
 }
-public enum KindaSwiftUILogType : Swift.String {
+public enum KindaSwiftUILogType : Swift.String, Swift.CaseIterable {
   case navigationRouter
   public init?(rawValue: Swift.String)
+  public typealias AllCases = [kindaSwiftUI247.KindaSwiftUILogType]
   public typealias RawValue = Swift.String
+  public static var allCases: [kindaSwiftUI247.KindaSwiftUILogType] {
+    get
+  }
   public var rawValue: Swift.String {
     get
   }

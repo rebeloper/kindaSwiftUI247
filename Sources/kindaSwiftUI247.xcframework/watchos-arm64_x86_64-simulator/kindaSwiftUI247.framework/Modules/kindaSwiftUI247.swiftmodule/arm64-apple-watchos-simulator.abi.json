@@ -925,6 +925,63 @@
                 "accessorKind": "get"
               }
             ]
+          },
+          {
+            "kind": "Var",
+            "name": "allCases",
+            "printedName": "allCases",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[kindaSwiftUI247.KindaSwiftUILogType]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KindaSwiftUILogType",
+                    "printedName": "kindaSwiftUI247.KindaSwiftUILogType",
+                    "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO8allCasesSayACGvpZ",
+            "mangledName": "$s15kindaSwiftUI24705KindaB9UILogTypeO8allCasesSayACGvpZ",
+            "moduleName": "kindaSwiftUI247",
+            "static": true,
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[kindaSwiftUI247.KindaSwiftUILogType]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KindaSwiftUILogType",
+                        "printedName": "kindaSwiftUI247.KindaSwiftUILogType",
+                        "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO8allCasesSayACGvgZ",
+                "mangledName": "$s15kindaSwiftUI24705KindaB9UILogTypeO8allCasesSayACGvgZ",
+                "moduleName": "kindaSwiftUI247",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
           }
         ],
         "declKind": "Enum",
@@ -971,6 +1028,36 @@
             ],
             "usr": "s:SY",
             "mangledName": "$sSY"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CaseIterable",
+            "printedName": "CaseIterable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "AllCases",
+                "printedName": "AllCases",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[kindaSwiftUI247.KindaSwiftUILogType]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "KindaSwiftUILogType",
+                        "printedName": "kindaSwiftUI247.KindaSwiftUILogType",
+                        "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12CaseIterableP",
+            "mangledName": "$ss12CaseIterableP"
           }
         ]
       },
@@ -1331,14 +1418,14 @@
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/KindaSwiftUILogManager.swift",
       "kind": "StringLiteral",
-      "offset": 628,
+      "offset": 749,
       "length": 19,
       "value": "\"Navigation Router\""
     },
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/KindaSwiftUILogManager.swift",
       "kind": "StringLiteral",
-      "offset": 628,
+      "offset": 749,
       "length": 19,
       "value": "\"Navigation Router\""
     },
