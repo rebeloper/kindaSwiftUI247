@@ -855,52 +855,53 @@
             "moduleName": "kindaSwiftUI247"
           },
           {
-            "kind": "Function",
-            "name": "==",
-            "printedName": "==(_:_:)",
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
+                "name": "Optional",
+                "printedName": "kindaSwiftUI247.KindaSwiftUILogType?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "KindaSwiftUILogType",
+                    "printedName": "kindaSwiftUI247.KindaSwiftUILogType",
+                    "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO"
+                  }
+                ],
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
-                "name": "KindaSwiftUILogType",
-                "printedName": "kindaSwiftUI247.KindaSwiftUILogType",
-                "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "KindaSwiftUILogType",
-                "printedName": "kindaSwiftUI247.KindaSwiftUILogType",
-                "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO"
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
-            "declKind": "Func",
-            "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO2eeoiySbAC_ACtFZ",
-            "mangledName": "$s15kindaSwiftUI24705KindaB9UILogTypeO2eeoiySbAC_ACtFZ",
+            "declKind": "Constructor",
+            "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO8rawValueACSgSS_tcfc",
+            "mangledName": "$s15kindaSwiftUI24705KindaB9UILogTypeO8rawValueACSgSS_tcfc",
             "moduleName": "kindaSwiftUI247",
-            "static": true,
             "implicit": true,
-            "funcSelfKind": "NonMutating"
+            "init_kind": "Designated"
           },
           {
             "kind": "Var",
-            "name": "hashValue",
-            "printedName": "hashValue",
+            "name": "rawValue",
+            "printedName": "rawValue",
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Int",
-                "printedName": "Swift.Int",
-                "usr": "s:Si"
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Var",
-            "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO9hashValueSivp",
-            "mangledName": "$s15kindaSwiftUI24705KindaB9UILogTypeO9hashValueSivp",
+            "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO8rawValueSSvp",
+            "mangledName": "$s15kindaSwiftUI24705KindaB9UILogTypeO8rawValueSSvp",
             "moduleName": "kindaSwiftUI247",
             "implicit": true,
             "accessors": [
@@ -911,44 +912,19 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO9hashValueSivg",
-                "mangledName": "$s15kindaSwiftUI24705KindaB9UILogTypeO9hashValueSivg",
+                "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO8rawValueSSvg",
+                "mangledName": "$s15kindaSwiftUI24705KindaB9UILogTypeO8rawValueSSvg",
                 "moduleName": "kindaSwiftUI247",
                 "implicit": true,
                 "accessorKind": "get"
               }
             ]
-          },
-          {
-            "kind": "Function",
-            "name": "hash",
-            "printedName": "hash(into:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Hasher",
-                "printedName": "Swift.Hasher",
-                "paramValueOwnership": "InOut",
-                "usr": "s:s6HasherV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:15kindaSwiftUI24705KindaB9UILogTypeO4hash4intoys6HasherVz_tF",
-            "mangledName": "$s15kindaSwiftUI24705KindaB9UILogTypeO4hash4intoys6HasherVz_tF",
-            "moduleName": "kindaSwiftUI247",
-            "implicit": true,
-            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Enum",
@@ -958,6 +934,7 @@
         "declAttributes": [
           "AccessControl"
         ],
+        "enumRawTypeName": "String",
         "conformances": [
           {
             "kind": "Conformance",
@@ -972,6 +949,28 @@
             "printedName": "Hashable",
             "usr": "s:SH",
             "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
           }
         ]
       },
@@ -1328,6 +1327,20 @@
       "offset": 424,
       "length": 2,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/KindaSwiftUILogManager.swift",
+      "kind": "StringLiteral",
+      "offset": 628,
+      "length": 19,
+      "value": "\"Navigation Router\""
+    },
+    {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/KindaSwiftUILogManager.swift",
+      "kind": "StringLiteral",
+      "offset": 628,
+      "length": 19,
+      "value": "\"Navigation Router\""
     },
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/KindaSwiftUIContentView.swift",
