@@ -146,6 +146,28 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "LicenseKeyStatusResult",
+        "printedName": "LicenseKeyStatusResult",
+        "declKind": "Struct",
+        "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV",
+        "mangledName": "$s15kindaSwiftUI24722LicenseKeyStatusResultV",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "kindaSwiftUI247",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "LicenseKeyStatus",
         "printedName": "LicenseKeyStatus",
         "children": [
@@ -156,14 +178,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
+                "name": "LicenseKeyStatusResult",
+                "printedName": "kindaSwiftUI247.LicenseKeyStatusResult",
+                "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV"
               }
             ],
             "declKind": "Func",
-            "usr": "s:15kindaSwiftUI24716LicenseKeyStatusV02isD6ActiveSbyFZ",
-            "mangledName": "$s15kindaSwiftUI24716LicenseKeyStatusV02isD6ActiveSbyFZ",
+            "usr": "s:15kindaSwiftUI24716LicenseKeyStatusV02isD6ActiveAA0deF6ResultVyFZ",
+            "mangledName": "$s15kindaSwiftUI24716LicenseKeyStatusV02isD6ActiveAA0deF6ResultVyFZ",
             "moduleName": "kindaSwiftUI247",
             "static": true,
             "declAttributes": [
@@ -485,21 +507,21 @@
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
       "kind": "StringLiteral",
-      "offset": 999,
+      "offset": 1254,
       "length": 341,
       "value": "\"􁃘 🙃 License key is undefined or invalid. Please (1) set up a `KindaSwiftUI-Info.plist` file with a `key` for your license key (use `trial` or you may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit  https:\/\/store.rebeloper.com\/community ); (2) Wrap your app content into the 'KindaSwiftUIContentView'\""
     },
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
       "kind": "StringLiteral",
-      "offset": 1385,
+      "offset": 1640,
       "length": 259,
       "value": "\"􁃘 😴 The trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI sleeps from time to time. You may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit https:\/\/store.rebeloper.com\/community\""
     },
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
       "kind": "StringLiteral",
-      "offset": 1702,
+      "offset": 1957,
       "length": 293,
       "value": "\"􁃘 😳 You have an inactive license key. The trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI sleeps from time to time. You may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit https:\/\/store.rebeloper.com\/community\""
     },
