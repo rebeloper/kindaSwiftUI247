@@ -17,45 +17,10 @@ public struct PoweredByKindaSwiftUIView : SwiftUI.View {
 public struct LicenseKeyStatus {
   public static func isLicenseActive() -> Swift.Bool
 }
-public struct KindaSwiftUILogManager {
-  public static var log: kindaSwiftUI247.KindaSwiftUILog
-}
-public struct KindaSwiftUILog {
-  public var level: kindaSwiftUI247.KindaSwiftUILogLevel
-  public var types: [kindaSwiftUI247.KindaSwiftUILogType]
-  public init(_ level: kindaSwiftUI247.KindaSwiftUILogLevel = .none, types: [kindaSwiftUI247.KindaSwiftUILogType] = [])
-}
-public enum KindaSwiftUILogLevel {
-  case none, debug, full
-  public static func == (a: kindaSwiftUI247.KindaSwiftUILogLevel, b: kindaSwiftUI247.KindaSwiftUILogLevel) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
-    get
-  }
-}
-public enum KindaSwiftUILogType : Swift.String, Swift.CaseIterable {
-  case navigationRouter
-  public init?(rawValue: Swift.String)
-  public typealias AllCases = [kindaSwiftUI247.KindaSwiftUILogType]
-  public typealias RawValue = Swift.String
-  public static var allCases: [kindaSwiftUI247.KindaSwiftUILogType] {
-    get
-  }
-  public var rawValue: Swift.String {
-    get
-  }
-}
 @_Concurrency.MainActor(unsafe) public struct KindaSwiftUI247ContentView<Content> : SwiftUI.View where Content : SwiftUI.View {
-  @_Concurrency.MainActor(unsafe) public init(logLevel: kindaSwiftUI247.KindaSwiftUILogLevel, logTypes: [kindaSwiftUI247.KindaSwiftUILogType] = KindaSwiftUILogType.allCases, @SwiftUI.ViewBuilder content: @escaping () -> Content)
-  @_Concurrency.MainActor(unsafe) public init(log: kindaSwiftUI247.KindaSwiftUILog, @SwiftUI.ViewBuilder content: @escaping () -> Content)
   @_Concurrency.MainActor(unsafe) public init(@SwiftUI.ViewBuilder content: @escaping () -> Content)
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }
   public typealias Body = @_opaqueReturnTypeOf("$s15kindaSwiftUI24705KindabC11ContentViewV4bodyQrvp", 0) __<Content>
 }
-extension kindaSwiftUI247.KindaSwiftUILogLevel : Swift.Equatable {}
-extension kindaSwiftUI247.KindaSwiftUILogLevel : Swift.Hashable {}
-extension kindaSwiftUI247.KindaSwiftUILogType : Swift.Equatable {}
-extension kindaSwiftUI247.KindaSwiftUILogType : Swift.Hashable {}
-extension kindaSwiftUI247.KindaSwiftUILogType : Swift.RawRepresentable {}
