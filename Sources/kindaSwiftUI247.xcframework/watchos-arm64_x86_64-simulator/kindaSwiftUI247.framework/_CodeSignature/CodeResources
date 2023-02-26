@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		7I4c+VUSZ5Aebt8/3d7KoABrW+A=
+		g9Z50HT7V3qb6bOZ75k7fQ7KD1w=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		99WmWsc5wm+HspyQo3GbbBNsGQk=
+		P2lYHN1Wvbs3WUP3KcMTmyfTsp0=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		7I4c+VUSZ5Aebt8/3d7KoABrW+A=
+		g9Z50HT7V3qb6bOZ75k7fQ7KD1w=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		FzdFPwQPz6oFdKcJTmIxVIRrLaY=
+		TAGJHL+SEe4dFblYfwjJhIGYe3c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g4kv45avU4bSzw5wRdlfUy6d3r08rWbaO4xVCEDZ6HM=
+			rxebFuVoti3UFYpfQCC4F+B1WIPhnU2+icEa5932SjE=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			REyXBbspyrq4v1f9NoDZdF1I4aDPOCk171bR/pu3Zig=
+			gj9Z6qn61VYDs3Y8UG/vsvqgTcq5BSa3MkqQ6Ao+bso=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g4kv45avU4bSzw5wRdlfUy6d3r08rWbaO4xVCEDZ6HM=
+			rxebFuVoti3UFYpfQCC4F+B1WIPhnU2+icEa5932SjE=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mSgRDS7BfaxeFsAt0I4Holxzx5Pdv4bCdOPbHIXevBQ=
+			tx6GIcfj9vPcbPutZhU+KzPu1FS/xFMIvcZ973bAf0k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -680,22 +680,22 @@
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
       "kind": "StringLiteral",
       "offset": 1309,
-      "length": 336,
-      "value": "\"License key is undefined or invalid.\n\nPlease (1) set up a `KindaSwiftUI-Info.plist` file with a `key` for your license key. Use `trial` or you may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit\n\nhttps:\/\/store.rebeloper.com\/community\n\n(2) Wrap your app content into the 'KindaSwiftUIContentView'\""
+      "length": 338,
+      "value": "\"License key is undefined or invalid.\n\nPlease (1) set up a `KindaSwiftUI-Info.plist` file with a `key` for your license key. Use `trial` or you may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit\n\nhttps:\/\/store.rebeloper.com\/community\n\n(2) Wrap your app content into the 'KindaSwiftUIContentView'\n\""
     },
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
       "kind": "StringLiteral",
-      "offset": 1690,
-      "length": 255,
-      "value": "\"The trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI sleeps from time to time.\n\nYou may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit\n\nhttps:\/\/store.rebeloper.com\/community\""
+      "offset": 1692,
+      "length": 257,
+      "value": "\"The trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI sleeps from time to time.\n\nYou may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit\n\nhttps:\/\/store.rebeloper.com\/community\n\""
     },
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
       "kind": "StringLiteral",
-      "offset": 2003,
-      "length": 292,
-      "value": "\"You have an inactive license key.\n\nThe trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI sleeps from time to time.\n\nYou may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit\n\nhttps:\/\/store.rebeloper.com\/community\""
+      "offset": 2007,
+      "length": 294,
+      "value": "\"You have an inactive license key.\n\nThe trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI sleeps from time to time.\n\nYou may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit\n\nhttps:\/\/store.rebeloper.com\/community\n\""
     },
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/KindaSwiftUI247ContentView.swift",
