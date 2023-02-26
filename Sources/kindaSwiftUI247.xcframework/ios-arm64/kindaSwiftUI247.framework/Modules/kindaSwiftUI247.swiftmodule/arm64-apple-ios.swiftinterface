@@ -15,6 +15,8 @@ public struct PoweredByKindaSwiftUIView : SwiftUI.View {
   public typealias Body = @_opaqueReturnTypeOf("$s15kindaSwiftUI247014PoweredByKindaB6UIViewV4bodyQrvp", 0) __
 }
 public struct LicenseKeyStatusResult {
+  public var isActive: Swift.Bool
+  public var message: Swift.String
 }
 public struct LicenseKeyStatus {
   public static func getLicenseKeyStatusResult() -> kindaSwiftUI247.LicenseKeyStatusResult

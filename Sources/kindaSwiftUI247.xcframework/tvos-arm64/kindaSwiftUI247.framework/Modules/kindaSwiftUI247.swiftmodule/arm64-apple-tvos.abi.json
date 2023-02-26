@@ -148,6 +148,178 @@
         "kind": "TypeDecl",
         "name": "LicenseKeyStatusResult",
         "printedName": "LicenseKeyStatusResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "isActive",
+            "printedName": "isActive",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV8isActiveSbvp",
+            "mangledName": "$s15kindaSwiftUI24722LicenseKeyStatusResultV8isActiveSbvp",
+            "moduleName": "kindaSwiftUI247",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV8isActiveSbvg",
+                "mangledName": "$s15kindaSwiftUI24722LicenseKeyStatusResultV8isActiveSbvg",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV8isActiveSbvs",
+                "mangledName": "$s15kindaSwiftUI24722LicenseKeyStatusResultV8isActiveSbvs",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV8isActiveSbvM",
+                "mangledName": "$s15kindaSwiftUI24722LicenseKeyStatusResultV8isActiveSbvM",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "message",
+            "printedName": "message",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV7messageSSvp",
+            "mangledName": "$s15kindaSwiftUI24722LicenseKeyStatusResultV7messageSSvp",
+            "moduleName": "kindaSwiftUI247",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV7messageSSvg",
+                "mangledName": "$s15kindaSwiftUI24722LicenseKeyStatusResultV7messageSSvg",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV7messageSSvs",
+                "mangledName": "$s15kindaSwiftUI24722LicenseKeyStatusResultV7messageSSvs",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV7messageSSvM",
+                "mangledName": "$s15kindaSwiftUI24722LicenseKeyStatusResultV7messageSSvM",
+                "moduleName": "kindaSwiftUI247",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          }
+        ],
         "declKind": "Struct",
         "usr": "s:15kindaSwiftUI24722LicenseKeyStatusResultV",
         "mangledName": "$s15kindaSwiftUI24722LicenseKeyStatusResultV",
