@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		NfZn1WSNLvlU+pmc+7VMrAVA2zE=
+		OeLtPFct693Hd+NpAb9UfzCfEog=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		Oj/WMwA8R5rAMHfeR2Fz2+jpwX4=
+		kQ8VBTo3Pg1vnYfs7DbU0HuAFbo=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		Oj/WMwA8R5rAMHfeR2Fz2+jpwX4=
+		kQ8VBTo3Pg1vnYfs7DbU0HuAFbo=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		sZ1FAzJP1UIqKM6OKT4BLndHBs0=
+		dXnXcOtliQkD+Pztm0/8KMrIwrU=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		NfZn1WSNLvlU+pmc+7VMrAVA2zE=
+		OeLtPFct693Hd+NpAb9UfzCfEog=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		z0/5+JM/xcVijkt3lg4aK+yjGV0=
+		Zpty6CUUU7l4AGPKrnAXNF2c27w=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		z0/5+JM/xcVijkt3lg4aK+yjGV0=
+		Zpty6CUUU7l4AGPKrnAXNF2c27w=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		ugYtR9MDAeur8HwSkn+0uXuJLFs=
+		/e3GEIsV4nS18JEkpdfQyLnTUkA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3yb1Wf9whed3AAf7dBImz3YpxQ1w/U3+lov1zqSO6SU=
+			KSxcuzOna6tWRJvxEwpMibKFZHWjTA4CyAP+F2OjsTA=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QclF5OAufY5Xg4CCVuTpBepIWLTYZWdSYILml1yGlGg=
+			pDaDCe6HRD2Cj0IKgsWw/6S3xS+PM27kwQy1T2yq4d0=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QclF5OAufY5Xg4CCVuTpBepIWLTYZWdSYILml1yGlGg=
+			pDaDCe6HRD2Cj0IKgsWw/6S3xS+PM27kwQy1T2yq4d0=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OgBw/wsuciCEQbSvx7u0+AQ+2t74RembEb9xWgSgeIY=
+			LwBj5El6/ahI6oJWMJTXONhp3Xjk5O7PYfNCqAghl/I=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3yb1Wf9whed3AAf7dBImz3YpxQ1w/U3+lov1zqSO6SU=
+			KSxcuzOna6tWRJvxEwpMibKFZHWjTA4CyAP+F2OjsTA=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IKnkpcYpE6eBsMXQ2qiIW/coBUF7hPOw0Obh8K0511o=
+			3CoqVl9YHvrWjVXr0BMztRvYqIq4UP3Lt6+AjTeai6U=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IKnkpcYpE6eBsMXQ2qiIW/coBUF7hPOw0Obh8K0511o=
+			3CoqVl9YHvrWjVXr0BMztRvYqIq4UP3Lt6+AjTeai6U=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rmhcpPYQYjnWmds4oIA31UJulH2I2/BWLB3BM239Oas=
+			pJflbtqvDJgN/8OZpaV7fyn7iHZcIMQmsrVyxyWtw7k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

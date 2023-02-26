@@ -1073,8 +1073,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "KindaSwiftUIContentView",
-        "printedName": "KindaSwiftUIContentView",
+        "name": "KindaSwiftUI247ContentView",
+        "printedName": "KindaSwiftUI247ContentView",
         "children": [
           {
             "kind": "Constructor",
@@ -1083,8 +1083,8 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "KindaSwiftUIContentView",
-                "printedName": "kindaSwiftUI247.KindaSwiftUIContentView<τ_0_0>",
+                "name": "KindaSwiftUI247ContentView",
+                "printedName": "kindaSwiftUI247.KindaSwiftUI247ContentView<τ_0_0>",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -1092,7 +1092,7 @@
                     "printedName": "τ_0_0"
                   }
                 ],
-                "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV"
+                "usr": "s:15kindaSwiftUI24705KindabC11ContentViewV"
               },
               {
                 "kind": "TypeNominal",
@@ -1134,8 +1134,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV8logLevel0G5Types7contentACyxGAA0db5UILogH0O_SayAA0dbK4TypeOGxyctcfc",
-            "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV8logLevel0G5Types7contentACyxGAA0db5UILogH0O_SayAA0dbK4TypeOGxyctcfc",
+            "usr": "s:15kindaSwiftUI24705KindabC11ContentViewV8logLevel0G5Types7contentACyxGAA0db5UILogH0O_SayAA0dbK4TypeOGxyctcfc",
+            "mangledName": "$s15kindaSwiftUI24705KindabC11ContentViewV8logLevel0G5Types7contentACyxGAA0db5UILogH0O_SayAA0dbK4TypeOGxyctcfc",
             "moduleName": "kindaSwiftUI247",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Content where Content : SwiftUI.View>",
@@ -1152,8 +1152,8 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "KindaSwiftUIContentView",
-                "printedName": "kindaSwiftUI247.KindaSwiftUIContentView<τ_0_0>",
+                "name": "KindaSwiftUI247ContentView",
+                "printedName": "kindaSwiftUI247.KindaSwiftUI247ContentView<τ_0_0>",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -1161,7 +1161,7 @@
                     "printedName": "τ_0_0"
                   }
                 ],
-                "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV"
+                "usr": "s:15kindaSwiftUI24705KindabC11ContentViewV"
               },
               {
                 "kind": "TypeNominal",
@@ -1188,8 +1188,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV3log7contentACyxGAA0dB5UILogV_xyctcfc",
-            "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV3log7contentACyxGAA0dB5UILogV_xyctcfc",
+            "usr": "s:15kindaSwiftUI24705KindabC11ContentViewV3log7contentACyxGAA0dB5UILogV_xyctcfc",
+            "mangledName": "$s15kindaSwiftUI24705KindabC11ContentViewV3log7contentACyxGAA0dB5UILogV_xyctcfc",
             "moduleName": "kindaSwiftUI247",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Content where Content : SwiftUI.View>",
@@ -1206,8 +1206,8 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "KindaSwiftUIContentView",
-                "printedName": "kindaSwiftUI247.KindaSwiftUIContentView<τ_0_0>",
+                "name": "KindaSwiftUI247ContentView",
+                "printedName": "kindaSwiftUI247.KindaSwiftUI247ContentView<τ_0_0>",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -1215,7 +1215,7 @@
                     "printedName": "τ_0_0"
                   }
                 ],
-                "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV"
+                "usr": "s:15kindaSwiftUI24705KindabC11ContentViewV"
               },
               {
                 "kind": "TypeFunc",
@@ -1236,8 +1236,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV7contentACyxGxyc_tcfc",
-            "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV7contentACyxGxyc_tcfc",
+            "usr": "s:15kindaSwiftUI24705KindabC11ContentViewV7contentACyxGxyc_tcfc",
+            "mangledName": "$s15kindaSwiftUI24705KindabC11ContentViewV7contentACyxGxyc_tcfc",
             "moduleName": "kindaSwiftUI247",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Content where Content : SwiftUI.View>",
@@ -1267,8 +1267,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvp",
-            "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvp",
+            "usr": "s:15kindaSwiftUI24705KindabC11ContentViewV4bodyQrvp",
+            "mangledName": "$s15kindaSwiftUI24705KindabC11ContentViewV4bodyQrvp",
             "moduleName": "kindaSwiftUI247",
             "declAttributes": [
               "Custom",
@@ -1295,8 +1295,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvg",
-                "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvg",
+                "usr": "s:15kindaSwiftUI24705KindabC11ContentViewV4bodyQrvg",
+                "mangledName": "$s15kindaSwiftUI24705KindabC11ContentViewV4bodyQrvg",
                 "moduleName": "kindaSwiftUI247",
                 "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
                 "sugared_genericSig": "<Content where Content : SwiftUI.View>",
@@ -1306,8 +1306,8 @@
           }
         ],
         "declKind": "Struct",
-        "usr": "s:15kindaSwiftUI24705KindaB13UIContentViewV",
-        "mangledName": "$s15kindaSwiftUI24705KindaB13UIContentViewV",
+        "usr": "s:15kindaSwiftUI24705KindabC11ContentViewV",
+        "mangledName": "$s15kindaSwiftUI24705KindabC11ContentViewV",
         "moduleName": "kindaSwiftUI247",
         "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
         "sugared_genericSig": "<Content where Content : SwiftUI.View>",
@@ -1499,9 +1499,9 @@
       "value": "\"Navigation Router\""
     },
     {
-      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/KindaSwiftUIContentView.swift",
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/KindaSwiftUI247ContentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 387,
+      "offset": 390,
       "length": 5,
       "value": "false"
     }

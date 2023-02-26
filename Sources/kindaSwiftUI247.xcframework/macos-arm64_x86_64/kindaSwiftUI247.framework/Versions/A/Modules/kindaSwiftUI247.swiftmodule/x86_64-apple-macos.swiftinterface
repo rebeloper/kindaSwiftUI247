@@ -45,14 +45,14 @@ public enum KindaSwiftUILogType : Swift.String, Swift.CaseIterable {
     get
   }
 }
-@_Concurrency.MainActor(unsafe) public struct KindaSwiftUIContentView<Content> : SwiftUI.View where Content : SwiftUI.View {
+@_Concurrency.MainActor(unsafe) public struct KindaSwiftUI247ContentView<Content> : SwiftUI.View where Content : SwiftUI.View {
   @_Concurrency.MainActor(unsafe) public init(logLevel: kindaSwiftUI247.KindaSwiftUILogLevel, logTypes: [kindaSwiftUI247.KindaSwiftUILogType] = KindaSwiftUILogType.allCases, @SwiftUI.ViewBuilder content: @escaping () -> Content)
   @_Concurrency.MainActor(unsafe) public init(log: kindaSwiftUI247.KindaSwiftUILog, @SwiftUI.ViewBuilder content: @escaping () -> Content)
   @_Concurrency.MainActor(unsafe) public init(@SwiftUI.ViewBuilder content: @escaping () -> Content)
   @_Concurrency.MainActor(unsafe) public var body: some SwiftUI.View {
     get
   }
-  public typealias Body = @_opaqueReturnTypeOf("$s15kindaSwiftUI24705KindaB13UIContentViewV4bodyQrvp", 0) __<Content>
+  public typealias Body = @_opaqueReturnTypeOf("$s15kindaSwiftUI24705KindabC11ContentViewV4bodyQrvp", 0) __<Content>
 }
 extension kindaSwiftUI247.KindaSwiftUILogLevel : Swift.Equatable {}
 extension kindaSwiftUI247.KindaSwiftUILogLevel : Swift.Hashable {}
