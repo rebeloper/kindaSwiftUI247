@@ -173,8 +173,8 @@
         "children": [
           {
             "kind": "Function",
-            "name": "isLicenseActive",
-            "printedName": "isLicenseActive()",
+            "name": "getLicenseKeyStatusResult",
+            "printedName": "getLicenseKeyStatusResult()",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -184,8 +184,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:15kindaSwiftUI24716LicenseKeyStatusV02isD6ActiveAA0deF6ResultVyFZ",
-            "mangledName": "$s15kindaSwiftUI24716LicenseKeyStatusV02isD6ActiveAA0deF6ResultVyFZ",
+            "usr": "s:15kindaSwiftUI24716LicenseKeyStatusV03getdeF6ResultAA0defH0VyFZ",
+            "mangledName": "$s15kindaSwiftUI24716LicenseKeyStatusV03getdeF6ResultAA0defH0VyFZ",
             "moduleName": "kindaSwiftUI247",
             "static": true,
             "declAttributes": [
@@ -507,21 +507,21 @@
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
       "kind": "StringLiteral",
-      "offset": 1254,
+      "offset": 1264,
       "length": 341,
       "value": "\"􁃘 🙃 License key is undefined or invalid. Please (1) set up a `KindaSwiftUI-Info.plist` file with a `key` for your license key (use `trial` or you may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit  https:\/\/store.rebeloper.com\/community ); (2) Wrap your app content into the 'KindaSwiftUIContentView'\""
     },
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
       "kind": "StringLiteral",
-      "offset": 1640,
+      "offset": 1650,
       "length": 259,
       "value": "\"􁃘 😴 The trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI sleeps from time to time. You may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit https:\/\/store.rebeloper.com\/community\""
     },
     {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeyStatus.swift",
       "kind": "StringLiteral",
-      "offset": 1957,
+      "offset": 1967,
       "length": 293,
       "value": "\"􁃘 😳 You have an inactive license key. The trial is full-featured and there's no expiry date, but without a subscription kindaSwiftUI sleeps from time to time. You may consider subscribing for 'SwiftUI Nation' to keep kindaSwiftUI awake 24\/7. Visit https:\/\/store.rebeloper.com\/community\""
     },
