@@ -19,6 +19,7 @@ public struct LicenseKeyStatusResult {
   public var message: Swift.String
 }
 public struct LicenseKeyStatus {
+  @discardableResult
   public static func getLicenseKeyStatusResult() -> kindaSwiftUI247.LicenseKeyStatusResult
 }
 @_Concurrency.MainActor(unsafe) public struct KindaSwiftUI247ContentView<Content> : SwiftUI.View where Content : SwiftUI.View {
