@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
-		GYWLZE+5yNDeZ6NNM+BbYdQ+os8=
+		IZXQEny3z9OaKQhlxhvvegSz9+Q=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
-		GYWLZE+5yNDeZ6NNM+BbYdQ+os8=
+		IZXQEny3z9OaKQhlxhvvegSz9+Q=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<data>
@@ -89,11 +89,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GYWLZE+5yNDeZ6NNM+BbYdQ+os8=
+			IZXQEny3z9OaKQhlxhvvegSz9+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			bgijwWgCFtVH5Fm61CLo16Dhqn2P2AOVbon4l3kbZJA=
+			IxMPZIuLWE0rsY609uaanOIpyFmFZinFTIm5mJjbth4=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
@@ -144,11 +144,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GYWLZE+5yNDeZ6NNM+BbYdQ+os8=
+			IZXQEny3z9OaKQhlxhvvegSz9+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			bgijwWgCFtVH5Fm61CLo16Dhqn2P2AOVbon4l3kbZJA=
+			IxMPZIuLWE0rsY609uaanOIpyFmFZinFTIm5mJjbth4=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
