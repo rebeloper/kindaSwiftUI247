@@ -573,6 +573,13 @@
   },
   "ConstValues": [
     {
+      "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/PoweredByKindaSwiftUIView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 210,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/rebeloper\/Documents\/Work\/Codes\/kindaSwiftUI\/kindaSwiftUI247\/Build\/kindaSwiftUI247\/kindaSwiftUI247\/License\/LicenseKeys.swift",
       "kind": "StringLiteral",
       "offset": 212,
