@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		IZXQEny3z9OaKQhlxhvvegSz9+Q=
+		XSSTQqnN4eHt1emLa7H+vbP2O04=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		vinW5gYfDghR9NvemqK/A5fhzxA=
+		hR9Yh1aF8SFRzvoiJJpfb1YV9es=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		IZXQEny3z9OaKQhlxhvvegSz9+Q=
+		XSSTQqnN4eHt1emLa7H+vbP2O04=
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		On0BWOZDzizsk8ufC7rHI79oxLo=
+		57ahksPuhBuanby/zl9E73Qv92Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IxMPZIuLWE0rsY609uaanOIpyFmFZinFTIm5mJjbth4=
+			mVMv5qyFQw/Xj9iIlDknJEo8UBXi9IxXz8LIepKxxag=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sZf87r9y13yUjX3b9cHEJZSd+bR/UMEWNUmQR50MCws=
+			xkwrB36CIf1O0LaXdAEtUibDZJifpaJF+Lypu8GoGFo=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IxMPZIuLWE0rsY609uaanOIpyFmFZinFTIm5mJjbth4=
+			mVMv5qyFQw/Xj9iIlDknJEo8UBXi9IxXz8LIepKxxag=
 			</data>
 		</dict>
 		<key>Modules/kindaSwiftUI247.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wHSYaL/yeW05TSAw6Vwp3d+8Ew11egBZfaFaK8SU+bA=
+			zc95CpnNA/hU+nds5bWtQC30MXuAyMvtgISRhA/9qSk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
